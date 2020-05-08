@@ -11,7 +11,7 @@ Press on `space` to jump, and avoid the walls.
 Do the command :  `$ git clone https://github.com/debroucker/flappy_bird.git` to recover this repository.
 
 ## Start-up
-Lunch `index.html`, and enjoy.
+Launch `index.html`, and enjoy.
 
 ![home](img/succes1.png)
 
